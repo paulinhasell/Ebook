@@ -1,0 +1,21 @@
+{
+  "name": "projeto",
+  "description": "ebook com bower",
+  "main": "index.js",
+  "authors": [
+    "Ale"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
